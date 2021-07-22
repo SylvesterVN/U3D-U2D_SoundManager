@@ -17,6 +17,8 @@ public class SoundCaller : MonoBehaviour
     }
 
     
+//Use this is any script to call a sound from the sound Manager & play it
+    /*FindObjectOfType<SoundManager>().play("SoundName");*/
 
 
 
